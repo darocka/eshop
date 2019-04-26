@@ -3,6 +3,11 @@
 		{
 			"name": "Helm - Skull",
 			"amount": "180"
-		}
+		},
+		{
+			"name": "Helm - Stars & Flames",
+			"amount": "180"
+		},
+		{}
 	]
 }
